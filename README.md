@@ -13,6 +13,5 @@ This repository is for public resources related to MaskProxy, including:
 
 - Basic configuration examples
 - Simple how-to guides
-- Public JSON/YAML templates (sanitized, without internal secrets)
 
 More content will be added over time.
